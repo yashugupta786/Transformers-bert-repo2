@@ -1,0 +1,13 @@
+https://blog.floydhub.com/tokenization-nlp/
+https://huggingface.co/transformers/tokenizer_summary.html
+https://www.analyticsvidhya.com/blog/2020/05/what-is-tokenization-nlp/
+https://towardsdatascience.com/overview-of-nlp-tokenization-algorithms-c41a7d5ec4f9
+
+
+bert tokenizer - word piece
+gp2 - BPE
+Roberta - BPE
+40,478  is a combination of base vocab and merges 40000- mergers and 478- base chracters
+
+
+BERT --- wordpiece
