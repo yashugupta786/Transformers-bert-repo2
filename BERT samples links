@@ -11,3 +11,4 @@ https://www.analyticsvidhya.com/blog/2019/09/demystifying-bert-groundbreaking-nl
 https://www.analyticsvidhya.com/blog/2020/07/transfer-learning-for-nlp-fine-tuning-bert-for-text-classification/
 https://pysnacks.com/machine-learning/bert-text-classification-with-fine-tuning/
 https://towardsdatascience.com/fine-tuning-hugging-face-model-with-custom-dataset-82b8092f5333   best
+https://towardsdatascience.com/multi-class-text-classification-with-lstm-1590bee1bd17  np.argmax(dense layer with softmax results )
